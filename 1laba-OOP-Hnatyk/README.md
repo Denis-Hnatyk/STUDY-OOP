@@ -18,8 +18,6 @@ print(f"{name} start programming at {datetime.now()}. {location} is the best cit
 ```
 ![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/1laba-OOP-Hnatyk/pictures/result.png "Результатік")
 
-- результати виконання індивідуального завдання (якщо такі є);
-
 ### Висновок: 
 - :sunglasses: У даній роботі я навчився створювати звіти у Git та оформляти їх по стандартах та нормах, прийнятих у вузьких кругах програмістів.  
 - :nail_care: Отримав знання у сфері офромлення тексту через Visual Studio Code, адже я не люблю легкі шляхи.
