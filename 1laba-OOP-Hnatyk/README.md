@@ -16,7 +16,7 @@ print(f"{name} start programming at {datetime.now()}. {location} is the best cit
 ```text
 << Denya start programming at 2023-09-17 10:56:56.696007. Los-Angeles is the best city! >>
 ```
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/1laba-OOP-Hnatyk/pictures/result.png "Результатік")
 
 - результати виконання індивідуального завдання (якщо такі є);
 
