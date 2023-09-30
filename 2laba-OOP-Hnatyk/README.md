@@ -96,10 +96,12 @@ if qus == "n" or qus == "N":
     
 ```
 
-2. Результати виконання роботи: 
+2. Результати виконання роботи:
+Перший раз виконав запуск і пройшов весь цикл програми
 -
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/2laba-OOP-Hnatyk/pictures/Screenshot_2.png "1 раз виконання")
+Другий раз виконав запуск і пройшов весь цикл інакше
 -
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/2laba-OOP-Hnatyk/pictures/Screenshot_1.png "2 раз")
 # Висновок
 - Я навчився розробляти програми на Python і всяке інше
