@@ -89,7 +89,7 @@ print(f"Загальна кількість користувачів = {MyName.t
 Додав коментарі, які показують розуміння, що за що відповідає"""
 ```
     1. Програма вивела значення:
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/3laba-OOP-Hnatyk/Pictures/Screenshot_2.png "Результат 1")
 
     1. Результат у текстовому форматі
 ```text
@@ -128,7 +128,7 @@ print(f"Загальна кількість користувачів = {MyName.t
 Загальна кількість користувачів = 6
 ```
     1. Початковий код дав наступний результат:
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/3laba-OOP-Hnatyk/Pictures/Screenshot_1.png "Результат 2")
 ### Висновок: 
 
 Під час виконання цієї роботи, я ознайомився з об'єктами та властивостями class в мові програмування Python
