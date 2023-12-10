@@ -1,29 +1,30 @@
 
 # Звіт до роботи
-## Тема: Оформлення робіт та перша програма
-### Мета роботи: Навчитись офоромлювати та сортувати файли у Git репозиторіях, правильно офромляти звіти по написанню програм
+## Тема: Віртуальні середовища
+### Мета роботи: Навчитись працювати в віртуальних середовищах
 ---
 ### Виконання роботи
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
--
-```python
-from datetime import datetime
-name = "Denya"
-location = "Los-Angeles"
 
-print(f"{name} start programming at {datetime.now()}. {location} is the best city!")
-```
-- Результат виконання програми
-```text
-<< Denya start programming at 2023-09-17 10:56:56.696007. Los-Angeles is the best city! >>
-```
-![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/1laba-OOP-Hnatyk/pictures/result.png "Результатік")
+- **Основи роботи з сторонніми бібліотеками**
+1. Переконався, що у мене встановлений pip та встановив пакет "requests"
+ ![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc1_pipinstalledsucessfully.png "1")
+ ![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc2_libsinstalled.png "2")
+ ![alt text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc3_pipinstallrequest.png "3")
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc4_pipshowreq.png "4")
 
-### Висновок: 
-- :sunglasses: У даній роботі я навчився створювати звіти у Git та оформляти їх по стандартах та нормах, прийнятих у вузьких кругах програмістів.  
-- :nail_care: Отримав знання у сфері офромлення тексту через Visual Studio Code, адже я не люблю легкі шляхи.
-- :thought_balloon: Всі завдання було виконано. Сподіваюсь
-- :underage: Єдина складність, яка виникла під час виконання роботи - вибір емоджі
-- :thumbsup: Такий формат подобається і надає інтерактивності при вивчені мови програмування/нової системи.
-- :two_men_holding_hands: Для покращення ефективності роботи, на мою думку, потрібно зробити окремий список в репозиторії звіту з смайліками. Упринипі усьо :neutral_face:
----
+- **Робота у віртуальному середовищі і робота з PipEnv**
+1. Створив власне середовище та виконав поставлені завдання:
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc6_pipenvinstall.png "5")
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc7_pipencstart.png "6")
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc8_4labaprocces.png "7")
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc9_errorwithshell.png "8")
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc10_pipinstallcust.png "9")
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc11_result.png "10")
+
+- **Робота з Flask**
+1. Встановив Flask та розробив простий сайт за допомогою ШІ:
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc12_slask%20install.png "11")
+ ![alt-text](https://github.com/Denis-Hnatyk/STUDY-OOP/blob/main/4laba-OOP-Hnatyk/Pictures/sc13_easyappflask.png "12")
+
+### Висновок
+- Під час виконання лабораторної роботи, я навчився працювати в віртуальних середовищах, зрозумів їх метод роботи. Розробив декілька програм та написав легкий сайт з використанням бібліотеки "Flask".
